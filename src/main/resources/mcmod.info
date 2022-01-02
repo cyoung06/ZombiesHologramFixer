@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zombieshologramfixer",
+  "name": "Hypixel Zombies Hologram bug fixer",
+  "description": "A mod that helps playing hypixel zombies. Fixes include hologram shoot",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["syeyoung"],
+  "credits": "The Forge and FML guys, for making awesome api",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
