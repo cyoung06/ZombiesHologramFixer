@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zombies_hologrambug_fixer",
+  "name": "Hypixel Zombies Hologram Bug Fixer",
+  "description": "A mod that fixes hypixel zombies holohram bug",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["syeyoung"],
+  "credits": "The Forge and FML guys, for making awesome api",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
