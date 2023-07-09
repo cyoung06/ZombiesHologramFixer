@@ -1,3 +1,7 @@
+# Apparently this mod is now blacklisted on Hypixel.
+# This repository is kept for the sake of keeping history
+# DO NOT USE THIS MOD
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
